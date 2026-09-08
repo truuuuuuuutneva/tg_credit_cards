@@ -21,7 +21,6 @@
 
 ![image](https://raw.githubusercontent.com/German-D/tg_credit_cards/main/static/visa_card.png)
 
-
 ## 💻 Технологии
 
 * Python
@@ -60,5 +59,5 @@ python3 card_bot.py
 ```
 
 ## Автор
-
+Трутнева Наталья @nrudkovskaya
 
